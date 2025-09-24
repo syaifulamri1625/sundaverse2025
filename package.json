@@ -1,0 +1,7 @@
+{
+  "name": "sunda-immersive-monorepo",
+  "private": true,
+  "scripts": {
+    "dev:frontend": "cd frontend && npm run dev"
+  }
+}

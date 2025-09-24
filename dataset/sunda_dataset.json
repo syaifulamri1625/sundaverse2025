@@ -1,1 +1,30 @@
-
+{
+  "legends": [
+    {
+      "id": "sangkuriang",
+      "title": "Sangkuriang",
+      "summary": "Legend of Sangkuriang and Mount Tangkuban Perahu.",
+      "example_prompt": "Create a cinematic 20s video of Sangkuriang at Mount Tangkuban Perahu, misty mountains, semantic grounding in Sundanese culture."
+    },
+    {
+      "id": "dewi_sri",
+      "title": "Dewi Sri",
+      "summary": "Rice goddess, fertility and harvest.",
+      "example_prompt": "Generate an evocative image of Dewi Sri among rice terraces at dawn, warm golden light."
+    }
+  ],
+  "templates": [
+    {
+      "id": "tmpl_sangkuriang_video",
+      "label": "Sangkuriang — Video (Cinematic)",
+      "media": "video",
+      "prompt": "Create a cinematic 20s video of Sangkuriang at Mount Tangkuban Perahu, misty mountains, kecapi-suling background."
+    },
+    {
+      "id": "tmpl_dewi_image",
+      "label": "Dewi Sri — Image (Golden Dawn)",
+      "media": "image",
+      "prompt": "Generate an evocative image of Dewi Sri among rice terraces at dawn."
+    }
+  ]
+}

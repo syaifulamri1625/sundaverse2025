@@ -1,0 +1,16 @@
+{
+  "templates": [
+    {
+      "id": "tmpl_sangkuriang_video",
+      "label": "Sangkuriang — Video (Cinematic)",
+      "media": "video",
+      "prompt": "Create a cinematic 20s video of Sangkuriang at Mount Tangkuban Perahu, misty mountains, kecapi-suling background."
+    },
+    {
+      "id": "tmpl_dewi_image",
+      "label": "Dewi Sri — Image (Golden Dawn)",
+      "media": "image",
+      "prompt": "Generate an evocative image of Dewi Sri among rice terraces at dawn."
+    }
+  ]
+}

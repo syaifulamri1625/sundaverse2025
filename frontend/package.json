@@ -3,10 +3,11 @@
   "version": "0.4.0",
   "private": true,
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview",
+  "seed": "node scripts/seed_templates.js"
+},
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
